@@ -27,3 +27,5 @@ t = countEvenOdd(n);
 
 if (t == 1):
     print("There are more even digits than odd digits")
+else:
+    print("There are less even digits than odd digits")
